@@ -1,0 +1,1 @@
+{"name":"Local: TEST_Life,the_Universe,_and_Everything","url":"/Users/vidurgoel/SPOJ/TEST_Life,the_Universe,_and_Everything.cpp","tests":[{"id":1674052550372,"input":"1\n2\n88\n42\n99","output":"1\n2\n88"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/vidurgoel/SPOJ/TEST_Life,the_Universe,_and_Everything.cpp","group":"local","local":true}
